@@ -4,11 +4,10 @@ Sistema web para consultar la disponibilidad de espacios universitarios y gestio
 
 ## Integrantes
 
-- Nombre del integrante 1 - Interfaz y estilos
-- Nombre del integrante 2 - Logica JavaScript
-- Nombre del integrante 3 - Pruebas y documentacion
+- Sebastián Torrealba - Interfaz y estilos
+- Mary Gonzalez  - Logica JavaScript
+- Gonzalo Yuseff 3 - Pruebas y documentacion
 
-> Reemplazar los nombres y ajustar las responsabilidades segun el equipo real.
 
 ## Funcionalidades
 

@@ -6,7 +6,7 @@ Sistema web para consultar la disponibilidad de espacios universitarios y gestio
 
 - Sebastián Torrealba - Interfaz y estilos
 - Mary Gonzalez  - Logica JavaScript
-- Gonzalo Yuseff 3 - Pruebas y documentacion
+- Gonzalo Yuseff - Pruebas y documentacion
 
 
 ## Funcionalidades

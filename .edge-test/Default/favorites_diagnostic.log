@@ -1,0 +1,12 @@
+2026-08-31 19:01:16.298: [INFO] CurrentProfilePath: C:\Users\Alumno\Espacio Universitario\.edge-test\Default
+2026-08-31 19:01:16.298: [INFO] Profiles total count: 1
+2026-08-31 19:01:16.298: [INFO] Profile: name=Perfil 1 path=C:\Users\Alumno\Espacio Universitario\.edge-test\Default lastActive=2026-08-31T19:01:16.278Z
+2026-08-31 19:01:16.298: [INFO] LastUsedProfileDir: C:\Users\Alumno\Espacio Universitario\.edge-test\Default
+2026-08-31 19:01:16.298: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\Alumno\Espacio Universitario\.edge-test\Default lastActive=2026-08-31T19:01:16.278Z
+2026-08-31 19:01:16.298: [INFO] OnDoneLoading sync enabled: 0
+2026-08-31 19:01:16.298: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-31 19:01:16.298: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-31 19:01:16.298: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-31 19:01:16.351: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-08-31 19:01:16.466: [INFO] VisibilityChanged: 0
+2026-08-31 19:01:22.945: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

@@ -8,7 +8,7 @@ const timeBlocks = {
 };
 
 const spaces = [
-  { id: 1, name: 'Auditorio Norte', building: 'Edificio Humanidades', room: 'Piso 2 · H-201', type: 'Sala de clases', capacity: 96, features: ['Proyector laser', 'Audio', 'Accesibilidad'], image: 0, blocked: ['10:15'] },
+  { id: 1, name: 'Justin Bieber', building: 'Edificio Humanidades', room: 'Piso 2 · H-201', type: 'Sala de clases', capacity: 96, features: ['Proyector laser', 'Audio', 'Accesibilidad'], image: 0, blocked: ['10:15'] },
   { id: 2, name: 'Laboratorio Curie', building: 'Facultad de Ciencias', room: 'Piso 1 · LAB-04', type: 'Laboratorio', capacity: 32, features: ['Mesones equipados', 'Extraccion', 'Ducha de seguridad'], image: 1, blocked: ['12:00', '16:15'] },
   { id: 3, name: 'Sala Los Arrayanes', building: 'Biblioteca Central', room: 'Piso 3 · B-312', type: 'Sala de estudio', capacity: 12, features: ['Pizarra', 'Luz natural', 'Zona silenciosa'], image: 2, blocked: ['08:30'] },
   { id: 4, name: 'Sala Gabriela Mistral', building: 'Centro Estudiantil', room: 'Piso 2 · CE-08', type: 'Sala de reunion', capacity: 10, features: ['Pantalla', 'Videollamadas', 'Pizarra'], image: 3, blocked: ['14:30'] },
